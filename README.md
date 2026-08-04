@@ -27,7 +27,7 @@ FairScale was designed with the following values in mind:
 
 ## Installation
 
-To install FairScale, please see the following [instructions](https://github.com/facebookresearch/fairscale/blob/main/docs/source/installation_instructions.rst).
+To install FairScale, please see the following [instructions](https://github.com/Unity-Billal-mesloub/fairscale/blob/main/docs/source/installation_instructions.rst).
 You should be able to install a package with pip or conda, or build directly from source.
 
 ## Getting Started
@@ -48,24 +48,11 @@ We use circleci to test FairScale with the following PyTorch versions (with CUDA
 * the latest LTS release (e.g. 1.8.1)
 * a recent nightly release (e.g. 1.11.0.dev20211101+cu111)
 
-Please create an [issue](https://github.com/facebookresearch/fairscale/issues) if you are having trouble with installation.
+Please create an [issue](https://github.com/Unity-Billal-mesloub/fairscale/issues) if you are having trouble with installation.
 
 ## Contributors
 
 We welcome contributions! Please see the [CONTRIBUTING](CONTRIBUTING.md) instructions for how you can contribute to FairScale.
-
-## License
-
-FairScale is licensed under the [BSD-3-Clause License](LICENSE).
-
-fairscale.nn.pipe is forked from [torchgpipe](https://github.com/kakaobrain/torchgpipe), Copyright 2019, Kakao Brain, licensed under [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
-
-fairscale.nn.model_parallel is forked from [Megatron-LM](https://github.com/NVIDIA/Megatron-LM), Copyright 2020, NVIDIA CORPORATION, licensed under [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
-
-fairscale.optim.adascale is forked from [AdaptDL](https://github.com/petuum/adaptdl), Copyright 2020, Petuum, Inc., licensed under [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
-
-fairscale.nn.misc.flatten_params_wrapper is forked from [PyTorch-Reparam-Module](https://github.com/SsnL/PyTorch-Reparam-Module), Copyright 2018, Tongzhou Wang, licensed under [MIT License](https://github.com/SsnL/PyTorch-Reparam-Module/blob/master/LICENSE).
-
 
 ## Citing FairScale
 
@@ -75,7 +62,7 @@ If you use FairScale in your publication, please cite it by using the following 
 @Misc{FairScale2021,
   author =       {{FairScale authors}},
   title =        {FairScale:  A general purpose modular PyTorch library for high performance and large scale training},
-  howpublished = {\url{https://github.com/facebookresearch/fairscale}},
+  howpublished = {\url{https://github.com/Unity-Billal-mesloub/fairscale}},
   year =         {2021}
 }
 ```
