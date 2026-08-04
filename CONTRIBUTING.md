@@ -20,13 +20,6 @@ We actively welcome your pull requests.
 5. Make sure your code passes static analysis (see below).
 6. If you haven't already, complete the Contributor License Agreement ("CLA").
 
-## Contributor License Agreement ("CLA")
-
-In order to accept your pull request, we need you to submit a CLA. You only need
-to do this once to work on any of Facebook's open source projects.
-
-Complete your CLA here: <https://code.facebook.com/cla>
-
 ## Issues
 
 We use GitHub issues to track public bugs. Please ensure your description is
@@ -89,7 +82,7 @@ FairScale code is tested on Python 3.9.7, CUDA 11.2 and the following three PyTo
 - the latest LTS version
 - a recent nightly release
 
-See the [README](https://github.com/facebookresearch/fairscale/blob/main/README.md#testing) for the exact version numbers.
+See the [README](https://github.com/Unity-Billal-mesloub/fairscale/blob/main/README.md#testing) for the exact version numbers.
 
 ### Unit tests
 
@@ -153,7 +146,3 @@ Must be one of the following:
 generation
 * **docs**: Documentation only changes
 
-## License
-
-By contributing to fairscale, you agree that your contributions will be licensed
-under the LICENSE file in the root directory of this source tree.
